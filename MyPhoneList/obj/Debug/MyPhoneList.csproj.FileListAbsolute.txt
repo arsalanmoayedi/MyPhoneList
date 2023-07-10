@@ -1,0 +1,11 @@
+D:\tr c#\MyPhoneList\MyPhoneList\bin\Debug\MyPhoneList.exe.config
+D:\tr c#\MyPhoneList\MyPhoneList\bin\Debug\MyPhoneList.exe
+D:\tr c#\MyPhoneList\MyPhoneList\bin\Debug\MyPhoneList.pdb
+D:\tr c#\MyPhoneList\MyPhoneList\obj\Debug\MyPhoneList.csproj.AssemblyReference.cache
+D:\tr c#\MyPhoneList\MyPhoneList\obj\Debug\MyPhoneList.Form1.resources
+D:\tr c#\MyPhoneList\MyPhoneList\obj\Debug\MyPhoneList.Properties.Resources.resources
+D:\tr c#\MyPhoneList\MyPhoneList\obj\Debug\MyPhoneList.csproj.GenerateResource.cache
+D:\tr c#\MyPhoneList\MyPhoneList\obj\Debug\MyPhoneList.csproj.CoreCompileInputs.cache
+D:\tr c#\MyPhoneList\MyPhoneList\obj\Debug\MyPhoneList.exe
+D:\tr c#\MyPhoneList\MyPhoneList\obj\Debug\MyPhoneList.pdb
+D:\tr c#\MyPhoneList\MyPhoneList\obj\Debug\MyPhoneList.FrmAddOrEdit.resources
